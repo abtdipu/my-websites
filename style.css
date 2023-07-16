@@ -211,6 +211,7 @@
 /* Four Picture Setup */
 .pic-fours{
     display: flex;
+    align-items: center;
     justify-content: center;
     margin-top: 30px;
     gap: 20px;
@@ -220,4 +221,44 @@
 .img1{
     width: 250px;
     height: 270px;
+}
+
+/* EMAIL SECTION CSS SETUP */
+.email-input{
+    height: 320px;
+    border: ;
+    background-image: url("images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1068px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.email{
+    justify-content: center;
+
+
+}
+.headline{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.slogan2{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   margin-top: 12px;
+}
+
+.input{
+    padding: 10px;
+    width: 350px;
+    margin-top: 20px;
+    border: none;
+    background-color: white;
+    gap: 10px;
 }
