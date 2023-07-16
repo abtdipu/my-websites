@@ -136,6 +136,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: auto;
     height: 230px;
     background-color: rgba(39, 39, 39, 0.05);
     gap: 120px;
@@ -157,6 +158,37 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    
+}
+
+/* SECTION FOUR CSS SETUP */
+
+.one-flower{
+    display: flex;
+    justify-content: center;
+    height: 340px;    
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.05);
+    gap: 70px;
+    margin-top: 50px;
+}
+
+.img-ten{
+    display: block;
+    width: 60%;
     margin: auto;
 }
+
+.text-des{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.des{
+    font-size: 12px;
+}
+
 
