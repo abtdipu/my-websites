@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+   
+}  
+
+/* My Sites 1st Banner CSS Section */
+.first-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 450px;
+    background-color: rgba(229, 84, 115, 0.05);
+    gap: 100px;
+}
+
+.banimg-size{
+    width: 300px;
+    height: 420px;
+    align-items: flex-end;
+    margin: auto;
+    margin-top: 35px;
+}
+
+.text-size{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.para-size{
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    background-color:  rgba(229, 84,115,1);
+    border: 0px solid;
+    padding: 10px 25px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
