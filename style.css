@@ -108,7 +108,7 @@
     width: 65%;
     height: 65%;
     margin: auto;
-    margin-top: 30%;
+    margin-top: 29%;
     margin-bottom: 70px;
     
 }
@@ -130,4 +130,33 @@
     
 }
 
+/* Section Three CSS */
+
+.icon-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 230px;
+    background-color: rgba(39, 39, 39, 0.05);
+    gap: 120px;
+    margin: auto;
+    width: 1040px;
+    margin-top: 30px;
+}
+
+.icon-txt{
+    font-size: 12px;
+    text-align-last: center;
+    margin-top: 20px;
+}
+
+.img{
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
 
