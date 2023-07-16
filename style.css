@@ -216,6 +216,7 @@
     margin-top: 30px;
     gap: 20px;
     
+    
 }
 
 .img1{
@@ -261,4 +262,40 @@
     border: none;
     background-color: white;
     gap: 10px;
+}
+
+/* FOOTER CSS SETUP */
+
+.footer{
+    padding: 2%%;
+    margin: auto;
+    height: 250px;
+    background-color: black;
+    background-size: 1068px;
+    margin-top: 50px;
+
+}
+
+.flower-shop{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0px;
+    color: white;
+    
+}
+
+.paragraph{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+   
+}
+
+.copywrite{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: gray;
 }
